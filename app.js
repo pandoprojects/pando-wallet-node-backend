@@ -3,7 +3,7 @@ require('dotenv').config();
 const express = require('express');
 
 const app = express();
-const port = process.env.PORT || 4011;
+const port = process.env.PORT || 6577;
 const bodyParser = require('body-parser');
 const router = require('./Router/router');
 const { createModulerLogger } = require('./Utillities/logger');
