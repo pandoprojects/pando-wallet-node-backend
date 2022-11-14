@@ -1,7 +1,7 @@
 
 # wallet application Backend
 
-# About WAllet Application
+## About Wallet Application
 
 Reference implementation of the pando Web Wallet. In addition to the standard wallet functionalities like sending and receiving PTX, it also allows the user to deploy and interact with smart contracts running on the Pando blockchain. To see the Pando Web Wallet in action, please visit https://wallet.pandoproject.org/.
 
