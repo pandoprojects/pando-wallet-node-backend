@@ -40,7 +40,7 @@ node js version=v12.22.9
 
 npm version=8.5.1
 
-** Now update the  project Database **
+**Now update the  project Database**
 
 PORT=4011
 
