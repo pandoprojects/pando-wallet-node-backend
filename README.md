@@ -51,10 +51,9 @@ DB_HOST=localhost
 DATABASE=wallet
 
 
-License
-The Pando Web Wallet reference implementation is licensed under the [GNU License](https://github.com/pandoprojects/pando-wallet-node-backend/blob/main/LICENSE)
-
-
-
 For more detail about projects please go thourgh our [official Documenation](https://docs.pandoproject.org/) 
+
+## License
+
+The Pando Web Wallet reference implementation is licensed under the [GNU License](https://github.com/pandoprojects/pando-wallet-node-backend/blob/main/LICENSE)
 
