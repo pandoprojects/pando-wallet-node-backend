@@ -51,4 +51,8 @@ DATABASE=wallet
 
 License
 The Theta Web Wallet reference implementation is licensed under the [GNU License](https://github.com/pandoprojects/pando-wallet-node-backend/blob/main/LICENSE)
+
+
+
 For more detail about projects please go thourgh our [official Documenation](https://docs.pandoproject.org/) 
+
