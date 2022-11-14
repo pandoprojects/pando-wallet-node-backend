@@ -34,8 +34,10 @@ The page will reload if you make edits.
 You will also see any lint errors in the console.
 
 
-Dependencies-
+## Dependencies-
+
 node js version=v12.22.9
+
 npm version=8.5.1
 
 ** Now update the  project Database **
