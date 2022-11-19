@@ -1,7 +1,7 @@
 const CryptoJS = require('crypto-js');
 
-let pandoSecret = '';//hmac secret code
-let nonce = '';//hmac nonce value
+let pandoSecret = '';
+let nonce = '';
 
 const CryptoService = {
     encryptHmacSHA256,

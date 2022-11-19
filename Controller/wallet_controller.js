@@ -12,6 +12,10 @@ class Wallet_Cli {
         const walletcli = await Services.WalleteCliservices(data)
         res.json(walletcli);
         logger.info(JSON.stringify('walletCli', walletcli));
+
+
+
+
     }
     //---------------------------------------------------wallet--Node--api--------(req,res controller)-------------------------------------------------------------------------------
     async walletNode(req, res) {

@@ -46,13 +46,7 @@ function createModulerLogger(moduleName) {
             })
         ]
 
-
-
     });
-
-
-
-
 
 
 }

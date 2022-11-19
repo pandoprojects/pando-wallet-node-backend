@@ -10,7 +10,6 @@
   "author": "PandoLab PTE LTD",
   "license": "GPL-3.0 license",
   "dependencies": {
-    "@thetalabs/theta-js": "^0.0.68",
     "arraybuffer-to-buffer": "0.0.5",
     "aws-sdk": "^2.1231.0",
     "axios": "^0.21.4",
