@@ -1,32 +1,58 @@
-## Detail of wallet application Backend ||
+
+# Wallet application Backend
+
+## About Wallet Application
+
+Reference implementation of the pando Web Wallet. In addition to the standard wallet functionalities like sending and receiving PTX, it also allows the user to deploy and interact with smart contracts running on the Pando blockchain. To see the Pando Web Wallet in action, please visit https://wallet.pandoproject.org/.
 
 
+**URL of wallet frontend code is** : https://github.com/pandoprojects/pando-network-web-wallet
 
+## How to launch the project (Backend) on your local system
 
-## Getting started
+#### Take clone of this repo in your system and run following command
 
-To make it easy for you to get started with GitLab, here's a list of recommended next steps.
+**Install all the project dependencies by running below command**
 
-Already a pro? Just edit this README.md and make it your own. Want to make it easy? [Use the template at the bottom](#editing-this-readme)!
+```
+npm install.
 
-## Integrate with your tools
+```
 
-- [ ] [Set up project integrations](https://gitlab.com/pandoproject/wallet-application/-/settings/integrations)
+```
+npm install nodemon
+```
 
+After this Run following command
 
-
-## How to launch the project on your local system
-
-
-
-## Install editor, node js, npm
-
-
-## Install all the project dependencies by running below command
-## npm install 
-how to run node project 
+```
 npm start
+```
+Open http://localhost:6577 to view it in the browser.
+The page will reload if you make edits.
+You will also see any lint errors in the console.
 
 
-## Now update the .env file variables
+## Dependencies-
+
+node js version=v12.22.9
+
+npm version=8.5.1
+
+**Now update the  project Database**
+
 PORT=6577
+
+
+DB_HOST=localhost
+
+
+DATABASE=wallet
+
+
+For more detail about projects please go thourgh our [official Documenation](https://docs.pandoproject.org/) 
+
+## License
+
+The Pando Web Wallet reference implementation is licensed under the [GNU License](https://github.com/pandoprojects/pando-wallet-node-backend/blob/main/LICENSE)
+
